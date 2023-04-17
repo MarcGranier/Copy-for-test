@@ -12,6 +12,8 @@ const Footer = () => {
 	)
 }
 
+some random commnet to try to get this to work
+
 const Wrapper = styled.footer`
 	height: 5rem;
 	display: flex;
