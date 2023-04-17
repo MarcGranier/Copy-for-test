@@ -13,6 +13,8 @@ const Footer = () => {
 }
 
 /*random comment*/
+/*random comment#2*/
+
 
 const Wrapper = styled.footer`
 	height: 5rem;
