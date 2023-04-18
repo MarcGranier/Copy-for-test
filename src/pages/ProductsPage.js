@@ -19,6 +19,8 @@ const ProductsPage = () => {
 	)
 }
 
+// this is the product page
+
 const Wrapper = styled.div`
 	.products {
 		display: grid;
