@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import App from './App'
 // random comment
+//2nd random comment
 
 import { ProductsProvider } from './context/products_context'
 import { FilterProvider } from './context/filter_context'
