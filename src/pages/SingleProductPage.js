@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { useProductsContext } from '../context/products_context'
@@ -33,7 +34,7 @@ const SingleProductPage = () => {
 			setTimeout(() => {
 				navigate('/')
 			}, 3000)
-		}
+		}		
 	}, [])
 
 	if (loading) {
